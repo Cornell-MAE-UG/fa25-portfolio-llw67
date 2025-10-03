@@ -11,5 +11,9 @@ actuator (pick from this online catalog, use max force values only), design a
 frame/mechanism to lift the maximum possible weight to the highest possible height.
 Assume all the supports and bar/actuator are rigid.
 
-In order to go about solving this problem, the first step I began with was to establish my parameters. 
+In order to go about solving this problem, the first step I began with was to establish my parameters. I choose
 
+```python
+    import numpy as np
+    import math
+    ```
