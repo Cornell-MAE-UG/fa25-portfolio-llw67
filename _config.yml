@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Lauren Willson
 description              : Lauren Willson - Projects and CV 
-baseurl                  : "/spring-2025-portfolio-Lauren_Willson/" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-llw67/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
