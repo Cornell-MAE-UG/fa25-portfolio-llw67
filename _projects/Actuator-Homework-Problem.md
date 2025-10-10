@@ -3,15 +3,13 @@ layout: project
 title: Actuator Analysis
 description: Homework Assignment to design a frame/mechanism to lift the maximum possible weight to the highest possible height
 technologies: [python]
-image: /assets/images/Actuator-problem-statement.png
+image: /assets/images/Actuator-Diagram.jpeg
 ---
 Homework Problem: Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length (your
 choice), 3 pin supports of which two need to be mounted on the ground and a linear
 actuator (pick from this online catalog, use max force values only), design a
 frame/mechanism to lift the maximum possible weight to the highest possible height.
 Assume all the supports and bar/actuator are rigid.
-
-![Profile Picture]({{ "assets/images/Actuator-Diagram.jpeg" | relative_url }}){: class="profile-image"}
 
 In order to go about solving this problem, the first step I began with was to establish my parameters. I choose the length of my rigid bar to be 20 cm, as to not be limited by the height of the design space. I also choose the IMA actuator because it was one of the only few actuators that could fit within the vertical limitations of the design space if standing completely vertically (0.5m). 
 
