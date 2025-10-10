@@ -28,7 +28,7 @@ For this system, we will assume that:
 Using the method learned in class: 
 
 Given: 
-![Profile Picture]({{ "assets/images/Actuator-Diagram.jpeg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Actuator-Diagram.jpeg" width="150" height="280" | relative_url }}){: class="profile-image"}
 
 Required: The maximum load w that can be supported by this system
 
