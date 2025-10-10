@@ -27,7 +27,8 @@ For this system, we will assume that:
 
 Using the method learned in class: 
 
-Given: /assets/images/Actuator-Diagram.jpeg
+Given: 
+![Profile Picture]({{ "assets/images/Actuator-Diagram.jpeg" | relative_url }}){: class="profile-image"}
 
 Required: The maximum load w that can be supported by this system
 
