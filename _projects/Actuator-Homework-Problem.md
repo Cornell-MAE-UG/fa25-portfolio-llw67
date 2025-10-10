@@ -11,6 +11,8 @@ actuator (pick from this online catalog, use max force values only), design a
 frame/mechanism to lift the maximum possible weight to the highest possible height.
 Assume all the supports and bar/actuator are rigid.
 
+![Profile Picture]({{ "assets/images/Actuator-Diagram.jpeg" | relative_url }}){: class="profile-image"}
+
 In order to go about solving this problem, the first step I began with was to establish my parameters. I choose the length of my rigid bar to be 20 cm, as to not be limited by the height of the design space. I also choose the IMA actuator because it was one of the only few actuators that could fit within the vertical limitations of the design space if standing completely vertically (0.5m). 
 
 When considering this question, there are two different aspects to focus in on: 1) Designing a frame/mechanism to lift the maximum possible weight and 2) Designing a mechanism to lift the maximum possible height.
